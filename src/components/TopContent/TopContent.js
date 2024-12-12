@@ -12,7 +12,7 @@ function TopContent() {
  collaborating <br/>in team environments to deliver optimized solutions.<br/> Passionate about building scalable,
  interactive, <br/>and modern web applications while continuously <br/>learning and growing in the field of
  software development.</p>
-        <a href="https://devkamal807.github.io/Portfolio/resume.pdf" 
+        <a href="https://github.com/devKamal807/Portfolio/blob/gh-pages/resume%20(3).pdf" 
     download="Resume_Kamal.pdf" >
             <button className='topcontent__resumebutton'>Resume</button>
             </a>
