@@ -54,3 +54,27 @@
     border-radius: 5px;
     cursor: pointer;
 }
+.menu__icon{
+    display: none;
+}
+@media screen and (max-width: 768px){
+    .menu__icon{
+        display: block;
+        margin-left: 400px;
+    }
+    .header__right{
+        display: none;
+    }
+    .header__right.active{
+        display: block;
+        margin-left: 250px;
+    }
+    .header__left{
+        margin-left: 20px;
+
+        
+    }
+    .header__left h1{
+        font-size: 80px;
+    }
+}

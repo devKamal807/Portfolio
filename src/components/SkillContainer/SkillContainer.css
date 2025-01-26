@@ -38,3 +38,17 @@
     background-color: rgb(88,88,88);
 }
 
+@media screen and (max-width: 768px){
+    .skillcontainer{
+       display: flex;
+       /* flex-direction: column; */
+       margin-left: 400px;
+       
+    }
+    .skillcontainer__image img{
+        height: 500px;
+    }
+    .skillcontainer__text{
+        font-size: 30px;
+    }
+}

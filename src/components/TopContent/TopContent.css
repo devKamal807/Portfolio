@@ -67,3 +67,24 @@
     background-color: white;
     font-weight: 600;
 }
+
+@media screen and (max-width: 768px){
+    .topcontent__container{
+        margin-top: 50px;
+       margin-left: 60px;
+    }
+    .topcontent__container h1{
+        font-size: 60px;
+    }
+    .topcontent__container p{
+        font-size: 25px;
+        justify-content: left;
+    }
+    .topcontent__resumebutton{
+        font-size: 25px;
+    }
+    .topcontent__workbutton{
+        font-size: 25px;
+    }
+
+}

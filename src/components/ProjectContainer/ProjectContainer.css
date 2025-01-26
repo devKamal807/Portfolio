@@ -23,3 +23,19 @@
     margin-top: 50px;
     flex-wrap: wrap;
 }
+@media screen and (max-width: 768px){
+    .projectcontainer{
+        align-items: center;
+        margin-left: 200px;
+        
+    }
+    .projectcontainer h1{
+        font-size: 90px;
+        margin-left: 100px;
+    }
+    .projectcontainer p{
+        display: none;
+        
+    }
+   
+}

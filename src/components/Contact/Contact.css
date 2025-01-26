@@ -3,7 +3,7 @@
     flex-direction: column;
     color: white;
     justify-content: center;
-    margin: 200px 0 100px;
+    margin: 150px 0 100px;
     align-items: center;
 }
 
@@ -34,4 +34,10 @@
 }
 .contact__icons>a>.MuiSvgIcon-root{
     color: white !important;
+}
+
+@media screen and (max-width: 768px){
+    .contact{
+        margin-left: 330px;
+    }
 }
